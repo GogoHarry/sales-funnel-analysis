@@ -288,7 +288,7 @@ Addressed 10 critical business questions across five domains:
 ### **Funnel Overview**
 
 #### **Overall Conversion Funnel**
-![Conversion Funnel](images/conversion_rate_funnel.png)
+![Conversion Funnel](images/conversion_rate_funnel.PNG)
 
 *The complete journey from MQL to delivered order with conversion rates at each stage*
 
@@ -305,7 +305,7 @@ Addressed 10 critical business questions across five domains:
 ### **Marketing Performance**
 
 #### **Conversion Rate by Marketing Channel**
-![Channel Performance](images/channel_conversion.png)
+![Channel Performance](images/channel_conversion.PNG)
 
 *Horizontal bar chart comparing conversion rates across nine marketing channels*
 
@@ -319,7 +319,7 @@ Addressed 10 critical business questions across five domains:
 ---
 
 #### **Top 10 Origin-Landing Page Combinations**
-![Landing Page Performance](images/landing_page_combinations.png)
+![Landing Page Performance](images/landing_page_combinations.PNG)
 
 *Most effective origin-landing page pairings driving conversions*
 
@@ -335,7 +335,7 @@ Addressed 10 critical business questions across five domains:
 ### **Product & Category Analysis**
 
 #### **Top 15 Product Categories by Conversion Rate**
-![Category Conversion](images/category_conversion_top15.png)
+![Category Conversion](images/category_conversion_top15.PNG)
 
 *Categories ranked by seller conversion percentage with sample sizes*
 
@@ -349,7 +349,7 @@ Addressed 10 critical business questions across five domains:
 ---
 
 #### **Category Performance: Volume vs. Conversion**
-![Volume vs Conversion](images/volume_vs_conversion_scatter.png)
+![Volume vs Conversion](images/volume_vs_conversion_scatter.PNG)
 
 *Scatter plot revealing relationship between seller volume and conversion rate (bubble size = converted sellers)*
 
@@ -363,7 +363,7 @@ Addressed 10 critical business questions across five domains:
 ---
 
 #### **Product Quality Metrics Distribution**
-![Product Quality](images/product_quality_metrics.png)
+![Product Quality](images/product_quality_metrics.PNG)
 
 *Three histograms showing the distribution of photo count, description length, and name length*
 
@@ -379,7 +379,7 @@ Addressed 10 critical business questions across five domains:
 ### **Time-Based Analysis**
 
 #### **Deal Closing Time Distribution**
-![Time to Close](images/time_to_close_distribution.png)
+![Time to Close](images/time_to_close_distribution.PNG)
 
 *Histogram with KDE curve showing days required to close deals*
 
@@ -393,7 +393,7 @@ Addressed 10 critical business questions across five domains:
 ---
 
 #### **Conversion Velocity by Time Segment**
-![Conversion Velocity](images/conversion_velocity_segments.png)
+![Conversion Velocity](images/conversion_velocity_segments.PNG)
 
 *Bar chart with percentages showing deal distribution across time buckets*
 
@@ -409,7 +409,7 @@ Addressed 10 critical business questions across five domains:
 ### **Delivery Performance**
 
 #### **Delivery Time Distribution**
-![Delivery Time](images/delivery_time_distribution.png)
+![Delivery Time](images/delivery_time_distribution.PNG)
 
 *Histogram showing days from purchase to customer delivery*
 
@@ -423,7 +423,7 @@ Addressed 10 critical business questions across five domains:
 ---
 
 #### **Order Delay Analysis**
-![Order Delays](images/order_delay_distribution.png)
+![Order Delays](images/order_delay_distribution.PNG)
 
 *Histogram centered at zero showing on-time (negative) vs. late (positive) deliveries*
 
@@ -437,7 +437,7 @@ Addressed 10 critical business questions across five domains:
 ---
 
 #### **Delivery Speed Impact on Conversion**
-![Delivery vs Conversion](images/delivery_speed_conversion.png)
+![Delivery vs Conversion](images/delivery_speed_conversion.PNG)
 
 *Four-panel comparison showing delivery time distributions and conversion rates by speed quartile*
 
@@ -453,7 +453,7 @@ Addressed 10 critical business questions across five domains:
 ### **Operational Analysis**
 
 #### **Order Stage Variability (Bottleneck Analysis)**
-![Stage Variability](images/stage_variability_bottleneck.png)
+![Stage Variability](images/stage_variability_bottleneck.PNG)
 
 *Bar chart comparing the coefficient of variation across three order stages*
 
@@ -467,7 +467,7 @@ Addressed 10 critical business questions across five domains:
 ---
 
 #### **Order Stage Duration Box Plots**
-![Stage Duration](images/stage_duration_boxplots.png)
+![Stage Duration](images/stage_duration_boxplots.PNG)
 
 *Three box plots revealing distribution and outliers for each fulfillment stage*
 
@@ -483,7 +483,7 @@ Addressed 10 critical business questions across five domains:
 ### **Seller Performance**
 
 #### **Top 10 SDRs and SRs by Closed Deals**
-![Sales Team Performance](images/top_sdr_sr_performance.png)
+![Sales Team Performance](images/top_sdr_sr_performance.PNG)
 
 *Horizontal bar charts showing top performers in each sales role*
 
@@ -511,7 +511,7 @@ Addressed 10 critical business questions across five domains:
 ---
 
 #### **Seller-Level Order Distribution**
-![Seller Order Distribution](images/seller_order_distribution.png)
+![Seller Order Distribution](images/seller_order_distribution.PNG)
 
 *Two histograms showing orders per seller and delivery success rates*
 
@@ -527,7 +527,7 @@ Addressed 10 critical business questions across five domains:
 ### **Customer Behavior**
 
 #### **Lead Behavior Profile Distribution**
-![Behavior Profiles](images/behavior_profile_distribution.png)
+![Behavior Profiles](images/behavior_profile_distribution.PNG)
 
 *Horizontal bar chart showing closed deals by lead behavioral archetype*
 
@@ -541,7 +541,7 @@ Addressed 10 critical business questions across five domains:
 ---
 
 #### **Customer Retention Analysis**
-![Repeat Purchase](images/repeat_purchase_rate.png)
+![Repeat Purchase](images/repeat_purchase_rate.PNG)
 
 *Bar chart comparing single-purchase vs. repeat customers*
 
@@ -557,7 +557,7 @@ Addressed 10 critical business questions across five domains:
 ### **Complete Funnel Dashboard**
 
 #### **End-to-End Funnel Metrics**
-![Complete Funnel](images/complete_funnel_horizontal.png)
+![Complete Funnel](images/complete_funnel_horizontal.PNG)
 
 *Horizontal bar chart showing the full journey from MQL through delivered orders with conversion percentages*
 
