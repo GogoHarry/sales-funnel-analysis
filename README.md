@@ -151,7 +151,6 @@ Addressed 10 critical business questions across five domains:
 ```
 825 Closed Deals → 4,446 Orders (539% expansion) → 4,405 Delivered (99% fulfillment)
 ```
-
 **Business Implication:** Each seller converts to 5.4 revenue-generating transactions, fundamentally changing unit economics and valuation multiples.
 
 ---
@@ -491,7 +490,7 @@ Addressed 10 critical business questions across five domains:
 **Business Significance:**
 - Top performers close 2-3x more deals than average
 - Significant variance indicates inconsistent methodologies
-- Knowledge transfer opportunity from the top to bottom quartile
+- Knowledge transfer opportunity from the top to the bottom quartile
 
 **Strategic Takeaway:** Codify top performer practices into training curriculum; implement peer mentoring programs
 
@@ -591,6 +590,7 @@ plotly==5.6.0          # Interactive visualizations
 jupyter==1.0.0         # Interactive notebook environment
 python==3.8.10         # Programming language
 ```
+---
 
 ### **Analysis Techniques**
 
@@ -603,7 +603,7 @@ python==3.8.10         # Programming language
 | **Segmentation** | Category/speed quartile analysis | `pandas.qcut()`, `groupby()` |
 | **Time Series** | Deal closing patterns | Date aggregations, trend analysis |
 
-```
+---
 
 ## 💼 Business Recommendations
 
@@ -672,9 +672,9 @@ Week 4: Implement tracking dashboard for category performance
 #### **4. Investigate Retention Data Anomaly (Priority: CRITICAL)**
 
 **Action:**
-- Conduct forensic analysis of customer ID assignment
-- Validate purchase tracking across order lifecycle
-- Determine if 0% repeat rate is real or measurement artifact
+- Conduct a forensic analysis of customer ID assignment
+- Validate purchase tracking across the order lifecycle
+- Determine if 0% repeat rate is real or a measurement artifact
 
 **Decision Tree:**
 ```
@@ -721,6 +721,7 @@ If real crisis → Launch emergency retention initiative
 - Double down on organic search optimization
 
 **Budget Reallocation:**
+
 ```
 FROM: Email (2.8%), Social (5.1%), Other Publicities (2.7%)
 TO: Organic Search (11.5%), Direct Traffic (10.8%), Paid Search (8.2%)
@@ -756,13 +757,13 @@ TO: Organic Search (11.5%), Direct Traffic (10.8%), Paid Search (8.2%)
 #### **8. Build Category-Specific Landing Pages**
 
 **Action:**
-- Create dedicated experiences for top 5 categories
+- Create dedicated experiences for the top 5 categories
 - Feature category-specific value propositions
 - Include seller success stories and testimonials
 
 **Template Components:**
 - Hero: Category-specific headline + hero image
-- Social proof: "Join 150+ successful Party Supply sellers"
+- Social proof: "Join 150+ successful Party Supply sellers.
 - Benefits: Category-tailored pain points and solutions
 - Case study: Featured seller success story
 - CTA: Category-specific call-to-action
@@ -792,39 +793,10 @@ TO: Organic Search (11.5%), Direct Traffic (10.8%), Paid Search (8.2%)
 
 ---
 
-#### **10. Deploy Predictive Lead Scoring**
+#### **10. Create Seller Success Management Program**
 
 **Action:**
-- Build ML model incorporating:
-  - Product category (0-60% variance)
-  - Delivery capability (6x conversion multiplier)
-  - Business segment
-  - Marketing channel
-  - Behavioral profile
-
-**Model Architecture:**
-```python
-Features:
-- category_conversion_rate (0.45 weight)
-- avg_delivery_days (0.25 weight)
-- business_segment (0.15 weight)
-- channel_quality (0.10 weight)
-- behavior_profile (0.05 weight)
-
-Output: Conversion probability (0-100%)
-```
-
-**Expected Impact:**
-- Sales team focuses on the top 30% of leads (60% of conversions)
-- Productivity improvement: +35%
-- Win rate on worked leads: +40%
-
----
-
-#### **11. Create Seller Success Management Program**
-
-**Action:**
-- Assign dedicated account managers to top 20% of sellers (by order volume)
+- Assign dedicated account managers to the top 20% of sellers (by order volume)
 - Implement tiered support structure
 - Develop seller lifecycle management framework
 
@@ -843,7 +815,7 @@ Standard (Bottom 50%): Self-service resources
 
 ---
 
-#### **12. Build Retention Infrastructure**
+#### **11. Build Retention Infrastructure**
 
 **Action (if 0% repeat rate is real):**
 - Design loyalty program with tiered benefits
@@ -878,7 +850,7 @@ Days 61-90: Optimization
 
 ### **Organizational Enablers**
 
-#### **13. Establish Category Management Function**
+#### **12. Establish Category Management Function**
 
 **Roles:**
 - Category Manager (5 hires, 1 per top category)
@@ -892,9 +864,10 @@ Days 61-90: Optimization
 
 ---
 
-#### **14. Deploy Real-Time Performance Dashboard**
+#### **13. Deploy Real-Time Performance Dashboard**
 
 **Metrics to Track:**
+
 ```
 Daily:
 - MQL volume by channel
@@ -916,26 +889,6 @@ Monthly:
 ```
 
 **Technology:** Tableau, Looker, or custom Plotly Dash application
-
----
-
-#### **15. Implement Experimentation Framework**
-
-**Culture Shift:**
-- Move from "best practices" to "let's test it."
-- Run 10+ experiments per quarter
-- Share learnings across the organization
-
-**Experiment Examples:**
-- Landing page variants (headline, CTA, imagery)
-- Email subject line testing
-- Sales script modifications
-- Approval workflow optimization
-
-**Infrastructure:**
-- A/B testing platform (Optimizely, VWO)
-- Statistical significance calculator
-- Experiment registry and results database
 
 ---
 
