@@ -319,7 +319,7 @@ Addressed 10 critical business questions across five domains:
 ---
 
 #### **Top 10 Origin-Landing Page Combinations**
-![Landing Page Performance](images/landing_page_combinations.PNG)
+![Landing Page Performance](images/landing_page_combination.PNG)
 
 *Most effective origin-landing page pairings driving conversions*
 
@@ -393,7 +393,7 @@ Addressed 10 critical business questions across five domains:
 ---
 
 #### **Conversion Velocity by Time Segment**
-![Conversion Velocity](images/conversion_velocity_segments.PNG)
+![Conversion Velocity](images/conversion_velocity_segment.PNG)
 
 *Bar chart with percentages showing deal distribution across time buckets*
 
@@ -437,7 +437,7 @@ Addressed 10 critical business questions across five domains:
 ---
 
 #### **Delivery Speed Impact on Conversion**
-![Delivery vs Conversion](images/delivery_speed_conversion.PNG)
+![Delivery vs Conversion](images/delivery_speed_comparison.PNG)
 
 *Four-panel comparison showing delivery time distributions and conversion rates by speed quartile*
 
