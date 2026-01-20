@@ -306,6 +306,7 @@ Addressed 10 critical business questions across five domains:
 
 #### **Conversion Rate by Marketing Channel**
 ![Channel Performance](images/channel_conversion.png)
+
 *Horizontal bar chart comparing conversion rates across nine marketing channels*
 
 **Business Significance:**
@@ -319,6 +320,7 @@ Addressed 10 critical business questions across five domains:
 
 #### **Top 10 Origin-Landing Page Combinations**
 ![Landing Page Performance](images/landing_page_combinations.png)
+
 *Most effective origin-landing page pairings driving conversions*
 
 **Business Significance:**
@@ -334,6 +336,7 @@ Addressed 10 critical business questions across five domains:
 
 #### **Top 15 Product Categories by Conversion Rate**
 ![Category Conversion](images/category_conversion_top15.png)
+
 *Categories ranked by seller conversion percentage with sample sizes*
 
 **Business Significance:**
@@ -347,6 +350,7 @@ Addressed 10 critical business questions across five domains:
 
 #### **Category Performance: Volume vs. Conversion**
 ![Volume vs Conversion](images/volume_vs_conversion_scatter.png)
+
 *Scatter plot revealing relationship between seller volume and conversion rate (bubble size = converted sellers)*
 
 **Business Significance:**
@@ -360,6 +364,7 @@ Addressed 10 critical business questions across five domains:
 
 #### **Product Quality Metrics Distribution**
 ![Product Quality](images/product_quality_metrics.png)
+
 *Three histograms showing the distribution of photo count, description length, and name length*
 
 **Business Significance:**
@@ -375,6 +380,7 @@ Addressed 10 critical business questions across five domains:
 
 #### **Deal Closing Time Distribution**
 ![Time to Close](images/time_to_close_distribution.png)
+
 *Histogram with KDE curve showing days required to close deals*
 
 **Business Significance:**
@@ -388,6 +394,7 @@ Addressed 10 critical business questions across five domains:
 
 #### **Conversion Velocity by Time Segment**
 ![Conversion Velocity](images/conversion_velocity_segments.png)
+
 *Bar chart with percentages showing deal distribution across time buckets*
 
 **Business Significance:**
@@ -403,6 +410,7 @@ Addressed 10 critical business questions across five domains:
 
 #### **Delivery Time Distribution**
 ![Delivery Time](images/delivery_time_distribution.png)
+
 *Histogram showing days from purchase to customer delivery*
 
 **Business Significance:**
@@ -416,6 +424,7 @@ Addressed 10 critical business questions across five domains:
 
 #### **Order Delay Analysis**
 ![Order Delays](images/order_delay_distribution.png)
+
 *Histogram centered at zero showing on-time (negative) vs. late (positive) deliveries*
 
 **Business Significance:**
@@ -429,6 +438,7 @@ Addressed 10 critical business questions across five domains:
 
 #### **Delivery Speed Impact on Conversion**
 ![Delivery vs Conversion](images/delivery_speed_conversion.png)
+
 *Four-panel comparison showing delivery time distributions and conversion rates by speed quartile*
 
 **Business Significance:**
@@ -444,6 +454,7 @@ Addressed 10 critical business questions across five domains:
 
 #### **Order Stage Variability (Bottleneck Analysis)**
 ![Stage Variability](images/stage_variability_bottleneck.png)
+
 *Bar chart comparing the coefficient of variation across three order stages*
 
 **Business Significance:**
@@ -457,6 +468,7 @@ Addressed 10 critical business questions across five domains:
 
 #### **Order Stage Duration Box Plots**
 ![Stage Duration](images/stage_duration_boxplots.png)
+
 *Three box plots revealing distribution and outliers for each fulfillment stage*
 
 **Business Significance:**
@@ -472,6 +484,7 @@ Addressed 10 critical business questions across five domains:
 
 #### **Top 10 SDRs and SRs by Closed Deals**
 ![Sales Team Performance](images/top_sdr_sr_performance.png)
+
 *Horizontal bar charts showing top performers in each sales role*
 
 **Business Significance:**
@@ -485,6 +498,7 @@ Addressed 10 critical business questions across five domains:
 
 #### **Seller Performance Flow (Sankey Diagram)**
 ![Seller Flow](images/sankey_seller_performance.png)
+
 *Flow visualization from closed deals through orders to delivery outcomes*
 
 **Business Significance:**
@@ -498,6 +512,7 @@ Addressed 10 critical business questions across five domains:
 
 #### **Seller-Level Order Distribution**
 ![Seller Order Distribution](images/seller_order_distribution.png)
+
 *Two histograms showing orders per seller and delivery success rates*
 
 **Business Significance:**
@@ -513,6 +528,7 @@ Addressed 10 critical business questions across five domains:
 
 #### **Lead Behavior Profile Distribution**
 ![Behavior Profiles](images/behavior_profile_distribution.png)
+
 *Horizontal bar chart showing closed deals by lead behavioral archetype*
 
 **Business Significance:**
@@ -526,6 +542,7 @@ Addressed 10 critical business questions across five domains:
 
 #### **Customer Retention Analysis**
 ![Repeat Purchase](images/repeat_purchase_rate.png)
+
 *Bar chart comparing single-purchase vs. repeat customers*
 
 **Business Significance:**
@@ -541,6 +558,7 @@ Addressed 10 critical business questions across five domains:
 
 #### **End-to-End Funnel Metrics**
 ![Complete Funnel](images/complete_funnel_horizontal.png)
+
 *Horizontal bar chart showing the full journey from MQL through delivered orders with conversion percentages*
 
 **Business Significance:**
