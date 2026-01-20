@@ -290,7 +290,7 @@ Addressed 10 critical business questions across five domains:
 #### **Overall Conversion Funnel**
 ![Conversion Funnel](images/conversion_rate_funnel.png)
 
-**What it shows:** The complete journey from MQL to delivered order with conversion rates at each stage
+*The complete journey from MQL to delivered order with conversion rates at each stage*
 
 **Business Significance:** 
 - 10.4% of leads convert to sellers (baseline performance)
@@ -306,8 +306,7 @@ Addressed 10 critical business questions across five domains:
 
 #### **Conversion Rate by Marketing Channel**
 ![Channel Performance](images/channel_conversion.png)
-
-**What it shows:** Horizontal bar chart comparing conversion rates across nine marketing channels
+*Horizontal bar chart comparing conversion rates across nine marketing channels*
 
 **Business Significance:**
 - Organic search (11.5%) and direct traffic (10.8%) significantly outperform paid channels
@@ -320,8 +319,7 @@ Addressed 10 critical business questions across five domains:
 
 #### **Top 10 Origin-Landing Page Combinations**
 ![Landing Page Performance](images/landing_page_combinations.png)
-
-**What it shows:** Most effective origin-landing page pairings driving conversions
+*Most effective origin-landing page pairings driving conversions*
 
 **Business Significance:**
 - Specific combinations drive disproportionate results
@@ -336,8 +334,7 @@ Addressed 10 critical business questions across five domains:
 
 #### **Top 15 Product Categories by Conversion Rate**
 ![Category Conversion](images/category_conversion_top15.png)
-
-**What it shows:** Categories ranked by seller conversion percentage with sample sizes
+*Categories ranked by seller conversion percentage with sample sizes*
 
 **Business Significance:**
 - Cine & Photo achieves 60% conversion vs. 12% marketplace average
@@ -350,8 +347,7 @@ Addressed 10 critical business questions across five domains:
 
 #### **Category Performance: Volume vs. Conversion**
 ![Volume vs Conversion](images/volume_vs_conversion_scatter.png)
-
-**What it shows:** Scatter plot revealing relationship between seller volume and conversion rate (bubble size = converted sellers)
+*Scatter plot revealing relationship between seller volume and conversion rate (bubble size = converted sellers)*
 
 **Business Significance:**
 - No positive correlation between volume and conversion (flat trend line)
@@ -364,8 +360,7 @@ Addressed 10 critical business questions across five domains:
 
 #### **Product Quality Metrics Distribution**
 ![Product Quality](images/product_quality_metrics.png)
-
-**What it shows:** Three histograms showing the distribution of photo count, description length, and name length
+*Three histograms showing the distribution of photo count, description length, and name length*
 
 **Business Significance:**
 - Mean: 2.2 photos, 771 characters (description), 48 characters (name)
@@ -380,8 +375,7 @@ Addressed 10 critical business questions across five domains:
 
 #### **Deal Closing Time Distribution**
 ![Time to Close](images/time_to_close_distribution.png)
-
-**What it shows:** Histogram with KDE curve showing days required to close deals
+*Histogram with KDE curve showing days required to close deals*
 
 **Business Significance:**
 - Bimodal distribution: peaks at 0-7 days and 60+ days
@@ -394,8 +388,7 @@ Addressed 10 critical business questions across five domains:
 
 #### **Conversion Velocity by Time Segment**
 ![Conversion Velocity](images/conversion_velocity_segments.png)
-
-**What it shows:** Bar chart with percentages showing deal distribution across time buckets
+*Bar chart with percentages showing deal distribution across time buckets*
 
 **Business Significance:**
 - Nearly 1/3 of deals close within one week (high-intent buyers)
@@ -410,8 +403,7 @@ Addressed 10 critical business questions across five domains:
 
 #### **Delivery Time Distribution**
 ![Delivery Time](images/delivery_time_distribution.png)
-
-**What it shows:** Histogram showing days from purchase to customer delivery
+*Histogram showing days from purchase to customer delivery*
 
 **Business Significance:**
 - Average: 12.1 days, Median: 10 days (right-skewed)
@@ -424,8 +416,7 @@ Addressed 10 critical business questions across five domains:
 
 #### **Order Delay Analysis**
 ![Order Delays](images/order_delay_distribution.png)
-
-**What it shows:** Histogram centered at zero showing on-time (negative) vs. late (positive) deliveries
+*Histogram centered at zero showing on-time (negative) vs. late (positive) deliveries*
 
 **Business Significance:**
 - Only 6.77% of orders were delivered late
@@ -438,8 +429,7 @@ Addressed 10 critical business questions across five domains:
 
 #### **Delivery Speed Impact on Conversion**
 ![Delivery vs Conversion](images/delivery_speed_conversion.png)
-
-**What it shows:** Four-panel comparison showing delivery time distributions and conversion rates by speed quartile
+*Four-panel comparison showing delivery time distributions and conversion rates by speed quartile*
 
 **Business Significance:**
 - Converted sellers average 8.4 days vs. 12.2 days for non-converters (3.8-day gap)
@@ -454,8 +444,7 @@ Addressed 10 critical business questions across five domains:
 
 #### **Order Stage Variability (Bottleneck Analysis)**
 ![Stage Variability](images/stage_variability_bottleneck.png)
-
-**What it shows:** Bar chart comparing the coefficient of variation across three order stages
+*Bar chart comparing the coefficient of variation across three order stages*
 
 **Business Significance:**
 - Purchase-to-approval: 201% CV (extreme inconsistency)
@@ -468,8 +457,7 @@ Addressed 10 critical business questions across five domains:
 
 #### **Order Stage Duration Box Plots**
 ![Stage Duration](images/stage_duration_boxplots.png)
-
-**What it shows:** Three box plots revealing distribution and outliers for each fulfillment stage
+*Three box plots revealing distribution and outliers for each fulfillment stage*
 
 **Business Significance:**
 - Approval stage shows extreme outliers (0-784 hours range)
@@ -484,8 +472,7 @@ Addressed 10 critical business questions across five domains:
 
 #### **Top 10 SDRs and SRs by Closed Deals**
 ![Sales Team Performance](images/top_sdr_sr_performance.png)
-
-**What it shows:** Horizontal bar charts showing top performers in each sales role
+*Horizontal bar charts showing top performers in each sales role*
 
 **Business Significance:**
 - Top performers close 2-3x more deals than average
@@ -498,8 +485,7 @@ Addressed 10 critical business questions across five domains:
 
 #### **Seller Performance Flow (Sankey Diagram)**
 ![Seller Flow](images/sankey_seller_performance.png)
-
-**What it shows:** Flow visualization from closed deals through orders to delivery outcomes
+*Flow visualization from closed deals through orders to delivery outcomes*
 
 **Business Significance:**
 - 825 sellers → 4,446 orders (5.4x multiplication)
@@ -512,8 +498,7 @@ Addressed 10 critical business questions across five domains:
 
 #### **Seller-Level Order Distribution**
 ![Seller Order Distribution](images/seller_order_distribution.png)
-
-**What it shows:** Two histograms showing orders per seller and delivery success rates
+*Two histograms showing orders per seller and delivery success rates*
 
 **Business Significance:**
 - High variance: median 5 orders, but some sellers exceed 100+
@@ -528,8 +513,7 @@ Addressed 10 critical business questions across five domains:
 
 #### **Lead Behavior Profile Distribution**
 ![Behavior Profiles](images/behavior_profile_distribution.png)
-
-**What it shows:** Horizontal bar chart showing closed deals by lead behavioral archetype
+*Horizontal bar chart showing closed deals by lead behavioral archetype*
 
 **Business Significance:**
 - "Cat" profile dominates with 71% of deals (587 of 825)
@@ -542,8 +526,7 @@ Addressed 10 critical business questions across five domains:
 
 #### **Customer Retention Analysis**
 ![Repeat Purchase](images/repeat_purchase_rate.png)
-
-**What it shows:** Bar chart comparing single-purchase vs. repeat customers
+*Bar chart comparing single-purchase vs. repeat customers*
 
 **Business Significance:**
 - 0% repeat purchase rate (100% one-time customers)
@@ -558,8 +541,7 @@ Addressed 10 critical business questions across five domains:
 
 #### **End-to-End Funnel Metrics**
 ![Complete Funnel](images/complete_funnel_horizontal.png)
-
-**What it shows:** Horizontal bar chart showing the full journey from MQL through delivered orders with conversion percentages
+*Horizontal bar chart showing the full journey from MQL through delivered orders with conversion percentages*
 
 **Business Significance:**
 - 7,940 MQLs → 825 deals (10.4%)
@@ -1173,3 +1155,5 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 **⭐ If you found this analysis valuable, please star this repository! ⭐**
 
 </div>
+
+**Last Updated:** January 2026
