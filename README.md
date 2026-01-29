@@ -1,5 +1,12 @@
-# E-Commerce Sales Funnel Analysis
+# 📊 E-Commerce Sales Funnel Analysis
 
+**A comprehensive data-driven analysis of marketplace performance, seller productivity, and conversion optimization opportunities**
+
+![Python](https://img.shields.io/badge/Python-3.8%2B-blue)
+![Pandas](https://img.shields.io/badge/Pandas-1.3%2B-green)
+![Plotly](https://img.shields.io/badge/Plotly-5.0%2B-orange)
+![Status](https://img.shields.io/badge/Status-Complete-success
+)
 ## 📑 Table of Contents
 
 - [Project Overview](#project-overview)
